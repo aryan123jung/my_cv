@@ -1,0 +1,21 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="640" rx="160" fill="#070A12"/>
+  <g filter="url(#blur)">
+    <circle cx="176" cy="112" r="196" fill="#65E4FF" fill-opacity=".32"/>
+    <circle cx="520" cy="148" r="220" fill="#9D7CFF" fill-opacity=".28"/>
+    <circle cx="360" cy="562" r="220" fill="#79FFA8" fill-opacity=".16"/>
+  </g>
+  <rect x="32" y="32" width="576" height="576" rx="132" fill="url(#glass)" stroke="white" stroke-opacity=".14"/>
+  <circle cx="320" cy="252" r="92" fill="white" fill-opacity=".88"/>
+  <path d="M150 528c20-106 86-166 170-166s150 60 170 166" fill="white" fill-opacity=".88"/>
+  <text x="320" y="568" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="800" fill="#07111D">AJC</text>
+  <defs>
+    <filter id="blur" x="-120" y="-160" width="880" height="920" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <linearGradient id="glass" x1="56" y1="42" x2="586" y2="616" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity=".16"/>
+      <stop offset="1" stop-color="white" stop-opacity=".04"/>
+    </linearGradient>
+  </defs>
+</svg>
