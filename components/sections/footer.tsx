@@ -16,14 +16,14 @@ export default function Footer() {
         </div>
         <div className="flex gap-3">
           <Link
-            href="https://github.com/"
+            href="https://github.com/aryan123jung"
             aria-label="GitHub"
             className="focus-ring grid size-10 place-items-center rounded-full border border-white/10 bg-white/5 text-slate-200 transition hover:text-cyan-100"
           >
             <Github size={17} />
           </Link>
           <Link
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/in/aryan-jung-chhetri-b67049363/"
             aria-label="LinkedIn"
             className="focus-ring grid size-10 place-items-center rounded-full border border-white/10 bg-white/5 text-slate-200 transition hover:text-cyan-100"
           >
