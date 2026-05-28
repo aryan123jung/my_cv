@@ -122,6 +122,14 @@ export const projects = [
     tech: ["R", "R-Studio", "Excel"],
     icon: Bug,
     accent: "from-rose-300/25 to-orange-500/15"
+  },
+  {
+    title: "ML AI player recomendation system for ipl franchises from domestic data",
+    description:
+      "A ML AI project which helps the ipl franchises to build a perfect squad and helps the new players to grow with the help of the doestic data.",
+    tech: ["Python", "Excel"],
+    icon: Bug,
+    accent: "from-rose-300/25 to-orange-500/15"
   }
 ];
 
