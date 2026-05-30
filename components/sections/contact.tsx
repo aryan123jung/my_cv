@@ -50,14 +50,14 @@ export default function Contact() {
           </div>
           <div className="mt-8 flex gap-3">
             <Link
-              href="https://github.com/"
+              href="https://github.com/aryan123jung"
               aria-label="GitHub"
               className="focus-ring grid size-11 place-items-center rounded-full border border-white/10 bg-white/[0.06] text-white transition hover:border-cyan-200/40"
             >
               <Github size={18} />
             </Link>
             <Link
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/aryan-jung-chhetri-b67049363/"
               aria-label="LinkedIn"
               className="focus-ring grid size-11 place-items-center rounded-full border border-white/10 bg-white/[0.06] text-white transition hover:border-cyan-200/40"
             >
