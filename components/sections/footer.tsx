@@ -10,9 +10,9 @@ export default function Footer() {
           <p className="font-display text-lg font-semibold text-white">
             Aryan Jung Chhetri
           </p>
-          <p className="mt-1 text-sm text-slate-400">
+          {/* <p className="mt-1 text-sm text-slate-400">
             © 2026. Fullstack, mobile, UI/UX, cybersecurity, and analytics-minded portfolio.
-          </p>
+          </p> */}
         </div>
         <div className="flex gap-3">
           <Link
